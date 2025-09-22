@@ -11,6 +11,7 @@ Books
 Quick Ref
 ---------
 
+* [Ruby Language QuickRef](https://cheat-sheets.org/saved-copy/Ruby%20Language%20QuickRef.pdf) - pdf
 * [Important Language Features](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
 * [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 
