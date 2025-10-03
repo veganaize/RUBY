@@ -7,6 +7,9 @@ Quick Ref
 * [Ruby Language QuickRef](https://cheat-sheets.org/saved-copy/Ruby%20Language%20QuickRef.pdf) - pdf
 * [Learn Ruby in Y Minutes](https://learnxinyminutes.com/ruby/) - [[learnruby.rb](https://learnxinyminutes.com/files/learnruby.rb)]
 * [Important Language Features](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/) - ruby-lang.org
+* [Ruby Official Documentation](https://docs.ruby-lang.org/en/master/) [[2.7.0](https://docs.ruby-lang.org/en/2.7.0/index.html)] - ruby-lang.org
+  - [rdoc](https://ruby.github.io/rdoc/)
+* [Ruby Community Documentation](https://ruby-doc.org/) [[2.7.8](https://ruby-doc.org/2.7.8/index.html)]
 
 
 Books / Tutorials
